@@ -1,26 +1,26 @@
-# catss 
-![badge](https://img.shields.io/github/last-commit/cats/cats)
+# Readme Generator 
+![badge](https://img.shields.io/github/last-commit/PechMV/readme-generator)
 ## Description
-cats
+Generates readme template
 
 ## Table of Contents
-cats
+N/A
 
 ## Installation
-cats
+npm inquirer and node.js
 
 ## Usage
-cats
+N/A
 
 ## Credits
-cats
+N/A
 
 ## Licsense
-None
+MIT License
 
 ## Features
-cats
+N/A
 
 ## Test
-cats
+N/A
 

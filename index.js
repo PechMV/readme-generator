@@ -11,27 +11,27 @@ const questions = [
     },
     {
         type: 'input',
-        message: 'Provide a short description explaining your project',
+        message: 'Provide a short description explaining your project:',
         name: 'description'
     },
     {
         type: 'input',
-        message: 'If your README is long, add a table of contents to make it easy for users to find what they need.',
+        message: 'If your README is long, add a table of contents to make it easy for users to find what they need:',
         name: 'tableOfContents'
     },
     {
         type: 'input',
-        message: 'What are the steps required to install your project? Provide a step-by-step description of how to get the development enviroment running.',
+        message: 'What are the steps required to install your project? Provide a step-by-step description of how to get the development enviroment running:',
         name: 'installation'
     },
     {
         type: 'input',
-        message: 'Provide instructions and examples for use. Include screenshots as needed.',
+        message: 'Provide instructions and examples for use. Include screenshots as needed:',
         name: 'usage'
     },
     {
         type: 'input',
-        message: 'List your credentials',
+        message: 'List your credentials:',
         name: 'credits'
     },
     {
@@ -52,12 +52,12 @@ const questions = [
     },
     {
         type: 'input',
-        message: 'Enter your GitHub username',
+        message: 'Enter your GitHub username:',
         name: 'username'
     },
     {
         type: 'input',
-        message: 'Enter your GitHub repository',
+        message: 'Enter your GitHub repository:',
         name: 'repo'
     }
 

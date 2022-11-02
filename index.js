@@ -38,7 +38,7 @@ const questions = [
         type: 'list',
         message: 'Provide the license of your project',
         name: 'license',
-        choices: ['MIT', 'Blank 1', 'blank 2']
+        choices: ['None', 'MIT License', 'Apache License 2.0', 'GNU General Public License v3.0', 'Other']
     },
     {
         type: 'input',
@@ -50,6 +50,16 @@ const questions = [
         message: 'Provide tests for your application. Then provide examples on how to run them here.',
         name: 'test'
     },
+    {
+        type: 'input',
+        message: 'Enter your GitHub username',
+        name: 'username'
+    },
+    {
+        type: 'input',
+        message: 'Enter your GitHub repository',
+        name: 'repo'
+    }
 
 ];
 

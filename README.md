@@ -11,6 +11,7 @@ To use this application, open up the terminal in vscode and enter in 'node index
 
 ## Links
 My GitHub Repository: https://github.com/PechMV/readme-generator
+
 Screen Capture: https://drive.google.com/file/d/1A9DTP1FR8F_pGdcbUVSN6H_shk_fIrCm/view
 
 ## Credits
